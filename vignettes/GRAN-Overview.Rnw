@@ -9,7 +9,7 @@
 \date{\today}
 
 
-<<<eval = TRUE, echo=FALSE, results=tex>>=
+<<eval = TRUE, echo=FALSE, results=tex>>=
 BiocStyle::latex()
 @ 
 
